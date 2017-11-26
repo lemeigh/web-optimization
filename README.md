@@ -1,6 +1,6 @@
 # Website Optimization 
 
-Included are my attempts to improve the performance of the portfolio and pizza sites. Just download the whole file and open in index.html in your browser!
+Included are my attempts to improve the performance of the portfolio and pizza sites. Just download the whole file and open index.html in your browser!
 
 #### Changes I Made
 
@@ -20,7 +20,7 @@ Included are my attempts to improve the performance of the portfolio and pizza s
 
 To start this project I was pretty lost in the sauce. Thank goodness for the forum and specifically these folks - with their sites, I was able to check if I was headed in any direction at all:
 
-* [http://turtle-head.github.io/mobileport/]
-* [http://vascode.github.io/Website-Performance-Optimization/]
-* [https://github.com/jpurcell45/frontend-nanodegree-mobile-portfolio]
+* http://turtle-head.github.io/mobileport/
+* http://vascode.github.io/Website-Performance-Optimization/
+* https://github.com/jpurcell45/frontend-nanodegree-mobile-portfolio
 
